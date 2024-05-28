@@ -1,6 +1,3 @@
-Here is a `README.md` file for the "Open-cafe-online-order-website" repository:
-
-```markdown
 # Open Cafe Online Order Website
 
 An online ordering system for a cafe, allowing customers to place orders and manage them through a web interface.
