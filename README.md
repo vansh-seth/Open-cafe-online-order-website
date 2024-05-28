@@ -38,12 +38,18 @@ An online ordering system for a cafe, allowing customers to place orders and man
 
 ### Running the Application
 
-1. Start the server:
+1. Start the site:
    ```bash
    npm start
    ```
-
-2. Open your browser and navigate to `http://localhost:3000`
+2. Start server.js:
+   ```bash
+   node server.js
+   ```
+3. Start server1.js:
+   ```bash
+   node server1.js
+   ```
 
 ## Folder Structure
 
