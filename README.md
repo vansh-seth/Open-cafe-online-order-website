@@ -61,7 +61,4 @@ An online ordering system for a cafe, allowing customers to place orders and man
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements.
 
-## License
-
-This project is licensed under the MIT License.
 
